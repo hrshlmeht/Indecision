@@ -1,0 +1,27 @@
+{
+  "name": "indecision-app2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server public",
+    "build": "webpack"
+  },
+  "author": "Harshal Mehta",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "6.24.1",
+    "babel-loader": "^8.2.2",
+    "live-server": "^1.2.1",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "webpack": "3.1.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.4",
+    "@babel/preset-react": "^7.18.6"
+  },
+  "description": ""
+}
