@@ -229,3 +229,5 @@ IndecisonApp.defaultProps = {
 };
 
 ReactDOM.render(<IndecisonApp /> , document.getElementById('app'));
+
+//I am noob
